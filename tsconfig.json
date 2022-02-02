@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "target": "esnext",
+    "allowSyntheticDefaultImports": true,
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "module": "esnext",
+    "jsx": "react-jsx",
+    "incremental": true,
+    "outDir": "dist",
+    "paths": {},
+    "moduleResolution": "node",
+    "types": ["node", "jest", "@testing-library/jest-dom"]
+  },
+  "exclude": ["dist"]
+}
