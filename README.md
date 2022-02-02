@@ -9,5 +9,5 @@ React package template with parcel build setup
 - React 17
 - Emotion
 - Storybook
-- Jest unit tests
+- React Testing Library unit tests
 - Linting with eslint
