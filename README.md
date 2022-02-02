@@ -7,7 +7,6 @@ React package template with parcel build setup
 - Typescript
 - Parcel 2
 - React 17
-- Emotion
 - Storybook
 - React Testing Library unit tests
 - Linting with eslint
