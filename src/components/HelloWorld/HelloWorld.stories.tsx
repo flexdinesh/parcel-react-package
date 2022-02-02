@@ -7,9 +7,7 @@ export default {
 } as ComponentMeta<typeof HelloWorld>;
 
 const Template: ComponentStory<typeof HelloWorld> = (args) => {
-  return (
-      <HelloWorld {...args} />
-  );
+  return <HelloWorld {...args} />;
 };
 
 export const Default = Template.bind({});
