@@ -1,1 +1,1 @@
-export { HelloWorld } from './components/HelloWorld';
+export { HelloWorld } from './components/hello-world';

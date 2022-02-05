@@ -1,5 +1,5 @@
 import type { ComponentStory, ComponentMeta } from '@storybook/react';
-import { HelloWorld } from './HelloWorld';
+import { HelloWorld } from './hello-world';
 
 export default {
   title: 'Components/HelloWorld',
